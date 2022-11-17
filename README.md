@@ -1,6 +1,7 @@
 # 42cursus - Born2beroot
 
 <img width="643" alt="Screen Shot 2022-10-26 at 5 11 38 PM" src="https://user-images.githubusercontent.com/96823772/198079366-b91e76fd-9d7d-4c40-ac46-60456c13905f.png">
+<img width="907" alt="Screen Shot 2022-11-17 at 4 34 23 AM" src="https://user-images.githubusercontent.com/96823772/202348625-afec88f9-bcf9-434f-9cc6-d268f1ec1d66.png">
 
 ## Table of Contents
 1. [Installation](#installation)
